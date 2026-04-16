@@ -10,7 +10,7 @@ O sistema foi criado para atender às necessidades internas e operacionais da or
 
 ## 📜 Autoria e Direitos
 
-Todo o código presente neste repositório é de **autoria exclusiva de Rafael Passos**.
+Todo o código presente neste repositório é de **autoria exclusiva minha**.
 
 Este projeto foi desenvolvido de forma original, sendo protegido por direitos autorais.  
 A utilização, modificação, redistribuição ou qualquer forma de reaproveitamento do código sem autorização prévia não é permitida.
